@@ -1,0 +1,461 @@
+{
+    "music.hoyomix_natlan": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "kubejs:hoyomix_natlan",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.hoyomix_genshin_impact_main_theme": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "kubejs:hoyomix_genshin_impact_main_theme",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.hoyomix_passing_memories": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "kubejs:hoyomix_passing_memories",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.hoyomix_anthem_of_the_savannah": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "kubejs:hoyomix_anthem_of_the_savannah",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.hoyomix_had_i_not_seen_the_sun": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "kubejs:hoyomix_had_i_not_seen_the_sun",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.hoyomix_if_i_can_stop_one_heart_from_breaking": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "kubejs:hoyomix_if_i_can_stop_one_heart_from_breaking",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.hoyomix_hope_is_the_thing_with_feathers": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "kubejs:hoyomix_hope_is_the_thing_with_feathers",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.hoyomix_sway_to_my_beat_in_cosmos": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "kubejs:hoyomix_sway_to_my_beat_in_cosmos",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.hoyomix_white_night": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "kubejs:hoyomix_white_night",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.hoyomix_true": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "kubejs:hoyomix_true",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.tryhandninja_revenge": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "kubejs:tryhandninja_revenge",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.hatsunemiku_kami_no_manimani": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "kubejs:hatsunemiku_kami_no_manimani",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.hatsunemiku_shinkai_shoujo": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "kubejs:hatsunemiku_shinkai_shoujo",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.hatsunemiku_senbonzakura": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "kubejs:hatsunemiku_senbonzakura",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.infinistar_da_yu": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "kubejs:infinistar_da_yu",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.infinistar_snowflakes": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "kubejs:infinistar_snowflake",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.infinistar_the_brightest_star_in_the_sky": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "kubejs:infinistar_the_brightest_star_in_the_sky",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.hatsunemiku_mousou_kanshou_daishou_renmei": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "kubejs:hatsunemiku_mousou_kanshou_daishou_renmei",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.hatsunemiku_blessing": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "kubejs:hatsunemiku_blessing",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.hatsunemiku_yume_to_hazakura": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "kubejs:hatsunemiku_yume_to_hazakura",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.lia_tori_no_uta": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "kubejs:lia_tori_no_uta",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.kenshiyonezu_uchiage_hanabi": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "kubejs:kenshiyonezu_uchiage_hanabi",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.fripside_only_my_railgun": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "kubejs:fripside_only_my_railgun",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.swins_zhi_yin_ni_tai_mei": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "kubejs:swins_zhi_yin_ni_tai_mei",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.kagaminerin_lost_one_no_goukoku": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "kubejs:kagaminerin_lost_one_no_goukoku",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.kafu_marshall_maximizer": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "kubejs:kafu_marshall_maximizer",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.agussantoso_goyang_ubur_ubur": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "kubejs:agussantoso_goyang_ubur_ubur",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.kankitsu_chronomia": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "kubejs:kankitsu_chronomia",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.usao_cyaegha": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "kubejs:usao_cyaegha",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.hoyomix_triumph_of_mirth": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "kubejs:hoyomix_triumph_of_mirth",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.aesir_chaos": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "kubejs:aesir_chaos",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.kanaria_king": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "kubejs:kanaria_king",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.usao_climax": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "kubejs:usao_climax",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.usao_cthugha": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "kubejs:usao_cthugha",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.usao_knight_rider": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "kubejs:usao_knight_rider",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.andylau_gong_xi_fa_cai": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "kubejs:andylau_gong_xi_fa_cai",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.banana": {
+        "sounds": [
+            {
+                "name": "kubejs:banana",
+                "stream": true,
+                "attenuation_distance": 24
+            }
+        ]
+    },
+    "music.gong_xi_fa_cai": {
+        "sounds": [
+            {
+                "name": "kubejs:gong_xi_fa_cai",
+                "stream": true,
+                "attenuation_distance": 24
+            }
+        ]
+    },
+    "music.suyi_yi_meng_qian_xiao": {
+        "sounds": [
+            {
+                "name": "kubejs:suyi_yi_meng_qian_xiao",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.leaf_mopemope": {
+        "sounds": [
+            {
+                "name": "kubejs:leaf_mopemope",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.laurashigihara_zombies_on_your_lawn": {
+        "sounds": [
+            {
+                "name": "kubejs:laurashigihara_zombies_on_your_lawn",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.laurashigihara_brainiac_maniac": {
+        "sounds": [
+            {
+                "name": "kubejs:laurashigihara_brainiac_maniac",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.hoyomix_come_alive": {
+        "sounds": [
+            {
+                "name": "kubejs:hoyomix_come_alive",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.hoyomix_burning_desires": {
+        "sounds": [
+            {
+                "name": "kubejs:hoyomix_burning_desires",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.hidetoshisato_a_cruel_angels_thesis": {
+        "sounds": [
+            {
+                "name": "kubejs:hidetoshisato_a_cruel_angels_thesis",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.hanser_ba_zhen_yu_shi": {
+        "sounds": [
+            {
+                "name": "kubejs:hanser_ba_zhen_yu_shi",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    },
+    "music.cso_spring_festival_ovetune": {
+        "sounds": [
+            {
+                "name": "kubejs:cso_spring_festival_ovetune",
+                "stream": true,
+                "attenuation_distance": 16
+            }
+        ]
+    }
+}

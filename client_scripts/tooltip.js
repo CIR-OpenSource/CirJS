@@ -1,0 +1,31 @@
+console.log('Loading KubeJS Code: "tooltip.js"');
+ItemEvents.tooltip((event) => {
+    event.add(
+        "kubejs:raw_reinforced_deepslate",
+        Text.of(Text.translate("tooltip.kubejs.raw_reinforced_deepslate"))
+    );
+    event.add(
+        "kubejs:manmade_budding_amethyst",
+        Text.of(Text.translate("tooltip.kubejs.manmade_budding_amethyst"))
+    );
+    event.add(
+        "kubejs:superblock",
+        Text.of(Text.translate("tooltip.kubejs.superblock"))
+    );
+    event.add(
+        "kubejs:random_block",
+        Text.of(Text.translate("tooltip.kubejs.random_block"))
+    );
+    event.add(
+        "wither_spawn_egg",
+        Text.of(Text.translate("tooltip.kubejs.wither_spawn_egg").red())
+    );
+    event.add(
+        "zombie_horse_spawn_egg",
+        Text.of(Text.translate("tooltip.kubejs.zombie_horse_spawn_egg"))
+    );
+    event.add(
+        "miners_delight:moss",
+        Text.of(Text.translate("tooltip.kubejs.moss"))
+    );
+});
